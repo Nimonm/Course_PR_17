@@ -4,15 +4,25 @@
 
 * Agg:
 
-<img src="./agg.png"height='200'>
+<img src="./agg2.jpg"height='200'>
+
+
 
 * flame
 
-<img src="./flame.png" height="200">
+<img src="./flame.jpg" height="200">
+
+
 
 * R15
 
-<img src="./R15.png" height="200">
+<img src="./R15.jpg" height="200">
+
+* mix
+
+  <img src="./mix.jpg" height="200">
+
+  ​
 
 ### 实验二
 
@@ -26,7 +36,7 @@
 
 以如下图片为例：
 
-<img src="./pic6.png"height="200">
+<img src="./pic6.jpg"height="200">
 
 ```
 用不同的滤波器结果：
@@ -46,11 +56,13 @@
 
   处理后图片：
 
-  <img src="./yz_3.png"height="100">
+  <img src="./yz_3.jpg"height="100">
 
   运行结果：
 
-  <img src="./result.png"height="200">
+  <img src="./result.jpg"height="200">
+
+  ​
 
   ```
   [(7, 14), (20, 26), (32, 39), (46, 51)]
