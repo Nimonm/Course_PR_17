@@ -21,6 +21,7 @@ The probability of 8: 0.00457077
 The probability of 9: 4.54648e-05
 
 The result: 1
+
 The probability of 0: 4.06941e-05
 
 The probability of 1: 0.992315
@@ -42,6 +43,7 @@ The probability of 8: 0.0038999
 The probability of 9: 0.000221215
 
 The result: 1 
+
 The probability of 0: 2.11061e-05
 
 The probability of 1: 0.867121
