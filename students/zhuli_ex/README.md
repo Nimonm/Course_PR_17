@@ -16,7 +16,7 @@
 
 * R15
 
-<img src="./R15.jpg" height="200">
+<img src="./r15.png" height="200">
 
 * mix
 
