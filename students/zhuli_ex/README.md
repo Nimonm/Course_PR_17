@@ -1,10 +1,10 @@
 # 实验报告
 
-###实验一FCM方法运行结果
+### 实验一FCM方法运行结果
 
 * Agg:
 
-<img src="./agg2.jpg"height="200">
+<img src="./agg2.jpg" height="200">
 
 
 
@@ -36,7 +36,7 @@
 
 以如下图片为例：
 
-<img src="./pic6.jpg"height="200">
+<img src="./pic6.jpg" height="200">
 
 ```
 用不同的滤波器结果：
@@ -52,15 +52,15 @@
 
   原图片：
 
-  <img src="./yz3.jpg"height="100">
+  <img src="./yz3.jpg" height="100">
 
   处理后图片：
 
-  <img src="./yz_3.jpg"height="100">
+  <img src="./yz_3.jpg" height="100">
 
   运行结果：
 
-  <img src="./result.jpg"height="200">
+  <img src="./result.jpg" height="200">
 
   ​
 
